@@ -1,6 +1,6 @@
 <div align="center">
     <h3>
-     <img src="https://assets.dgamer.de/raw/circle2.png" width="100" alt="Logo"/><br/>
+     <img src="https://assets.dgamer.de/raw/circle2.png" width="125" alt="Logo"/><br><br>
      Windows 11 Dotfiles
     </h3>
 </div>
