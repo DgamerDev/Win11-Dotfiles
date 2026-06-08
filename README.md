@@ -13,5 +13,5 @@ CTRL+SHIFT+P to open the Command Palette (Alternatively, click the arrow at the 
 ###### INFO: To display the tabs, press CTRL+SHIFT+P and type “Toggle Focus Mode”
 
 ## 🧡 Credits
-[lcffffffff9](se.pinterest.com/lcffffffff9) - [Wallpaper](https://se.pinterest.com/lcffffffff9/wallpaper/)
+[lcffffffff9](se.pinterest.com/lcffffffff9) - [Wallpaper](https://se.pinterest.com/lcffffffff9/wallpaper/)  
 [Catppuccin Mocha](https://github.com/catppuccin) - [Terminal Port](https://github.com/catppuccin/windows-terminal)
