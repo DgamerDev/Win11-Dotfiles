@@ -5,6 +5,10 @@
     </h3>
 </div>
 
+<p align="center">
+	<img src="https://assets.dgamer.de/img/setup-preview.png" width="650"/>
+</p>
+
 ## 💻 Windows Terminal
 1. Press the keyboard shortcut  
 CTRL+SHIFT+P to open the Command Palette (Alternatively, click the arrow at the top and select “Command Palette”).  
