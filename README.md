@@ -1,2 +1,13 @@
-# Win11-Dotfiles
-🪟 My Windows 11 Dotfiles
+<div align="center">
+    <h3>
+     <img src="https://assets.dgamer.de/raw/circle2.png" width="100" alt="Logo"/><br/>
+     Windows 11 Dotfiles
+    </h3>
+</div>
+
+## Windows Terminal
+1. Press the keyboard shortcut
+CTRL+SHIFT+P to open the Command Palette (Alternatively, click the arrow at the top and select “Command Palette”).
+2. Type “Open settings file (JSON)”.
+3. Delete everything and paste the contents of the settings.json file from the terminal folder in this repository.
+###### INFO: To display the tabs, press CTRL+SHIFT+P and type “Toggle Focus Mode”
