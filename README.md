@@ -17,11 +17,20 @@ CTRL+SHIFT+P to open the Command Palette (Alternatively, click the arrow at the 
 ###### INFO: To display the tabs, press CTRL+SHIFT+P and type “Toggle Focus Mode”  
 
 ## 🎛️ Cava
+[Click here](https://github.com/karlstav/cava)
 1. Download the config_all file from the "Cava" folder  
 2. Rename it to config  
 3. Place it in %USER_PATH%\.config\cava  
 Alternatively, use `cp config ~/.config/cava` in your terminal
 
+## 🦆 Yazi
+[Click here](https://github.com/sxyazi/yazi)
+1. Copy the `theme.toml` file from the `yazi/` folder in this repository
+2. Copy it to:
+- Windows: %AppData%\yazi\config\theme.toml
+- Linux: ~/.config/yazi/theme.toml
+
 ## 🧡 Credits
 [lcffffffff9](se.pinterest.com/lcffffffff9) - [Wallpaper](https://se.pinterest.com/lcffffffff9/wallpaper/)  
 [Catppuccin Mocha](https://github.com/catppuccin) - [Terminal Port](https://github.com/catppuccin/windows-terminal)
+[Claude Inspired Yazi Thene](https://github.com/rapidrabbit76/claude-inspired.yazi)
