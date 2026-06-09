@@ -9,6 +9,11 @@
 	<img src="https://assets.dgamer.de/img/setup-preview.png" width="650"/>
 </p>
 
+## 🧱 Wallpaper Packs
+[Wallpaper Pack by Meng Hui Chen](https://se.pinterest.com/lcffffffff9/_created/) - The one I'm currently using. Perfect for a single background 
+[CozyPixels](https://github.com/SleepyCatHey/CozyPixels) - Perfect for folders full of wallpapers
+##### The wallpaper folder has been removed due to the enforcement of the MIT license.
+
 ## 💻 Windows Terminal
 1. Press the keyboard shortcut  
 CTRL+SHIFT+P to open the Command Palette (Alternatively, click the arrow at the top and select “Command Palette”).  
@@ -31,6 +36,6 @@ Alternatively, use `cp config ~/.config/cava` in your terminal
 - Linux: ~/.config/yazi/theme.toml
 
 ## 🧡 Credits
-[lcffffffff9](se.pinterest.com/lcffffffff9) - [Wallpaper](https://se.pinterest.com/lcffffffff9/wallpaper/)  
+[lcffffffff9](se.pinterest.com/lcffffffff9)
 [Catppuccin Mocha](https://github.com/catppuccin) - [Terminal Port](https://github.com/catppuccin/windows-terminal)
 [Claude Inspired Yazi Thene](https://github.com/rapidrabbit76/claude-inspired.yazi)
